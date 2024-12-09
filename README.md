@@ -6,6 +6,6 @@ We then performed a simulation study using a collaborative filtering recommendat
 Our results show that the algorithm plays an 80% role in the formation of inter-user filter bubbles, while the user plays a limited but still significant 20% role.
 
 ## Instruction
-- The notebooks in this repository cover the two main experiments performed in the research.
+- The notebooks in this repository cover the two main experiments performed in the research: experiment1.ipynb covers the first simulation, analysis.ipynb analyzes the results of this simulation, while experiment2.ipynb analyzes the effect of "following the recommendation."
 - Use command ```pip install -r requirements.txt ``` to install all the requirements for this project.
 - Unzip the genome-score.zip file located in the data/ml-latest-small directory.

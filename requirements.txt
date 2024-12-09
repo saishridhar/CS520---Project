@@ -1,5 +1,9 @@
 numpy
 pandas 
 scikit-learn
-matplotlib
 openai
+dowhy
+scipy
+sklearn
+matplotlib
+seaborn
