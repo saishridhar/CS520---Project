@@ -7,4 +7,5 @@ Our results show that the algorithm plays an 80% role in the formation of inter-
 
 ## Instruction
 - The notebooks in this repository cover the two main experiments performed in the research.
+- Use command ```pip install -r requirements.txt ``` to install all the requirements for this project.
 - Unzip the genome-score.zip file located in the data/ml-latest-small directory.
